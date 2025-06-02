@@ -20,4 +20,4 @@ I'm a passionate developer working on intelligent systems that blend AI and back
 
 Let’s connect and build something awesome!
 
-[📫 Email Me](mailto:your.email@example.com) | [🌐 Portfolio/Website](https://yourwebsite.com)
+[📫 Email Me](user@gmail.com) | [🌐 Portfolio/Website](https://yourwebsite.com)
